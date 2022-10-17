@@ -1,17 +1,16 @@
-## Running React on Repl.it
+# Emoji Interpreter
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+#### A simple app built using React.js that shows the meaning of emojis entered or clicked on.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+<hr/>
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+[Live demo of the app](https://ngc-mark08.netlify.app/)
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+<hr/>
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+### Technology Used:
+- HTML, CSS
+- React.js(Javascript)
+- Built on Replit and deployed on Netlify
 
-### Typescript
-
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+<hr/>
